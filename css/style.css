@@ -1,3 +1,4 @@
 body {
   background-image: url("css/cupcakes.gif");
+  background-repeat: repeat-x;
 }
