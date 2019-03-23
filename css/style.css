@@ -26,13 +26,13 @@ section {
   align-items: center;
   box-shadow: 0 7px 10px 0;
   border-radius: 6px;
-  background-color: black;
+  background-color: lavender;
   width: 80%;
   padding: 1% 2%;
 }
 
 .description {
-  color: blue;
+  color: white;
   font-size 20px;
 }
   
