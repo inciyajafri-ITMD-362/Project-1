@@ -5,12 +5,12 @@ html {
 
 h1 {
   font-family: 'Courgette';
-  font-color: violet;
+  color: violet;
   text-align: center;
 }
 
 p {
-  font-color: violet;
+  color: violet;
 }
 
 section {
