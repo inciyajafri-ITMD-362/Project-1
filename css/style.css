@@ -19,7 +19,8 @@ h3 {
 h4 {
   font-family: 'Cabin+Sketch';
   font-style: italic;
-  color: white;
+  color: purple;
+  font-size: 15px;
 }
 
 section {
@@ -34,7 +35,7 @@ section {
 }
 
 .description {
-  color: white;
+  color: green;
   font-size: 20px;
 }
   
