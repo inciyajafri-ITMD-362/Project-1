@@ -1,6 +1,16 @@
 html {
   background-image: url(https://www.familyservicesinc.net/wp-content/uploads/2015/06/home-dap.jpg);
 }
+
+h1 {
+  font-family: 'Courgette';
+  font-color: BlueViolet;
+}
+
+p {
+  font-color: BlueViolet;
+}
+
 section {
   margin: 20px auto;
   align-items: center;
