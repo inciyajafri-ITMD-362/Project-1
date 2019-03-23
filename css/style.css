@@ -26,14 +26,14 @@ section {
   align-items: center;
   box-shadow: 0 7px 10px 0;
   border-radius: 6px;
-  background-color: lavender;
+  background-color: violet;
   width: 80%;
   padding: 1% 2%;
 }
 
 .description {
   color: white;
-  font-size 20px;
+  font-size: 20px;
 }
   
 .email {
