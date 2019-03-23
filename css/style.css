@@ -1,1 +1,14 @@
+html {
+  background-image: url(https://www.familyservicesinc.net/wp-content/uploads/2015/06/home-dap.jpg);
+}
+section {
+  margin: 20px auto;
+  align-items: center;
+  box-shadow: 0 7px 10px 0;
+  border-radius: 6px;
+  background-color: black;
+  width: 80%;
+  padding: 1% 2%;
+}
+
 
