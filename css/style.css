@@ -10,9 +10,10 @@ h1 {
   font-size: 50px;
 }
 h3 {
-  color: purple;
+  color: black;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
+  opacity: 1.0;
 }
 
 h4 {
