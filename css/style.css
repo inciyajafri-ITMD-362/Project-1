@@ -47,11 +47,11 @@ form {
 
 .video {
   align-items: center;
-  width: 854px;
-  height: 480px;
+  width: 854em;
+  height: 480em;
   align-items: center;
 }
 
-img{
+.image {
   align-items: center;
 }
