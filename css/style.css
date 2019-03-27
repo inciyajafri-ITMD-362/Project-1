@@ -46,11 +46,11 @@ form {
 }
 
 .video video{
-  align-items: center;
-  width: 854px;
-  height: 480px;
+  verticle-align: middle;
+  width: 1000px;
+  height: 600px;
 }
 
 .image img{
-  align-items: center;
+  vertical-align: middle;
 }
