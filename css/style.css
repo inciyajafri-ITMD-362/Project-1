@@ -45,13 +45,12 @@ form {
   align-items: center;
 }
 
-.video {
+.video vid{
   align-items: center;
-  width: 854em;
-  height: 480em;
-  align-items: center;
+  width: 854px;
+  height: 480px;
 }
 
-.image {
+.image img{
   align-items: center;
 }
