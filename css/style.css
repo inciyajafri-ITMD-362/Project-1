@@ -41,6 +41,11 @@ section {
   font-size: 20px;
 }
 
+.news {
+  color: brown;
+  font-weight: bold;
+}
+
 form {
   align-items: center;
 }
